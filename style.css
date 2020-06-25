@@ -52,7 +52,7 @@ a:hover {
     color: white;
 }
 h1{
-    font-size: 150px;
+    font-size: 120px;
 }
 .row{
     margin-bottom: 120px;
@@ -66,6 +66,7 @@ h2{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: 2px 2px;
+    text-align: center;
 }
 button a{
     font-size: 50px;
